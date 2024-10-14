@@ -8,6 +8,8 @@
 # Flowchart
 ![MINPRO2 drawio (2)](https://github.com/user-attachments/assets/842d0260-a386-405c-a05f-bbacd728e299)
 
+Link Drive Flowchart: https://drive.google.com/drive/folders/1oVOsJ5A3OgfGUcfD1PEbb-5-qIp3yIpO?usp=sharing
+
 # Code
 
 ## Menu Pilihan Role
